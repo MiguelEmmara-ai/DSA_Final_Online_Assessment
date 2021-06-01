@@ -5,7 +5,7 @@ AUT Data Structures and Algorithms: Final Online Assessment Semester 1 2021
 [Download](https://github.com/MiguelEmmara-ai/DSA_Final_Online_Assessment/tree/master/Question)
 
 # Screenshots
-![Screenshot 1](https://github.com/MiguelEmmara-ai/DSA_Final_Online_Assessment/blob/master/res/Screenshot.JPG)
+![Screenshot 1](https://github.com/MiguelEmmara-ai/DSA_Final_Online_Assessment/blob/master/res/Screenshot.png)
 
 # License
 
